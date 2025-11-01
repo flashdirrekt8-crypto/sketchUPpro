@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://55r.xyz/" download>
+  <a href="https://55r.xyz/app/test-application-1.0.0" download>
     <img src="https://img.shields.io/badge/Download-blue?logo=download&logoColor=white&style=for-the-badge" alt="Download"/>
   </a>
 </p>
